@@ -86,7 +86,13 @@
 | `.java`  | `java`   |
 | `.cpp`   | `g++`    |
 | `.c`     | `gcc`    |
-| `.txt`   | `cat`    |
+
+## 偵測主要檔案方式
+| 程式語言 | 主檔案判斷 |
+|----------|----------|
+| `Python`    | `__main__` |
+| `Java`  | `public static void main`   |
+| `C++`   | `int main`    |
 
 ## 程式執行邏輯
 1. 檢查 `input/`、`answers/` 和 `dataset/` 資料夾是否存在。

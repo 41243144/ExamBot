@@ -62,7 +62,6 @@ COMMAND = {
     '.java' : 'java',
     '.cpp' : 'g++',
     '.c' : 'gcc',
-    '.txt' : 'cat',
 }
 
 MAIN_COMMAND = {
