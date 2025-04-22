@@ -42,6 +42,7 @@
 ## 使用方式
 ### 執行`git clone https://github.com/41243144/ExamBot.git`複製檔案
 ### 或[點擊這裡下載](https://github.com/41243144/ExamBot/releases)
+### ⚠️ 請刪除每個資料夾中的.gitkeep
 
 
 ## 注意事項
